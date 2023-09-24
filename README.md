@@ -3,12 +3,12 @@
 This notebook contains Python code for sentiment analysis on a dataset of car reviews. The code leverages natural language processing (NLP) techniques and machine learning models to classify car reviews into positive or negative sentiment categories. Various preprocessing methods, vectorization techniques, and machine learning algorithms are explored to achieve accurate sentiment classification.
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Preprocessing and Text Cleaning](#preprocessing-and-text-cleaning)
-3. [Feature Vectorization](#feature-vectorization)
-4. [Model Training and Evaluation](#model-training-and-evaluation)
-5. [LSTM-Based Sentiment Analysis](#lstm-based-sentiment-analysis)
-6. [How to Use](#how-to-use)
+1. [Introduction](#1-introduction)
+2. [Preprocessing and Text Cleaning](#2-preprocessing-and-text-cleaning)
+3. [Feature Vectorization](#3-feature-vectorization)
+4. [Model Training and Evaluation](#4-model-training-and-evaluation)
+5. [LSTM-Based Sentiment Analysis](#5-lstm-based-sentiment-analysis)
+6. [How to Use](#6-how-to-use)
 
 ## 1. Introduction
 Sentiment analysis is a vital task in natural language processing that involves determining the sentiment or emotion expressed in a piece of text. In this notebook, we focus on sentiment analysis of car reviews using various techniques to achieve accurate classification.
